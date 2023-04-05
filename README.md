@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Take a look at my portfolio [here](https://jesus-borjas-portfolio.vercel.app/)!
+# Hi there 👋 Take a look at my portfolio [here](https://jesus-borjas-portfolio.vercel.app/)!
 
 
 
