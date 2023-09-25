@@ -1,7 +1,5 @@
-# Hi there 👋 Take a look at my website [here](https://jesus-borjas-portfolio.vercel.app/)!
+# Hi there 👋 Take a look at my website [here](https://jesus-portfolio-website.vercel.app/)!
 
-## Preview of portfolio:
-<img width="1511" alt="Portfolio-project" src="https://user-images.githubusercontent.com/111095858/230147729-b16e5f1c-2347-4ef5-9ff8-9ffcabcae523.png">
 
 <!--
 **Jesusborjas006/Jesusborjas006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
