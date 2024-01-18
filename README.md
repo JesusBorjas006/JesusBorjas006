@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Borjas</h1>
 <h3 align="center">A passionate frontend developer from Illinois</h3>
 
-- 🔭 I’m currently working on [Star Wars Encyclopedia](https://github.com/Jesusborjas006/Star-Wars-Encyclopedia)
+- 🔭 I’m currently working on [Burger Shack](https://github.com/Jesusborjas006/Burger-Shack)
 
 - 🌱 I’m currently advancing my skills in **React and TypeScript**
 
