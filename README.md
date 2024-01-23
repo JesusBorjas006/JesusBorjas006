@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently advancing my skills in **React and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://jesus-portfolio-website.vercel.app/](https://jesus-portfolio-website.vercel.app/)
-
 - 📫 How to reach me **jesusbor006@gmail.com**
-
-- 📄Checkout out my resume [here](https://docs.google.com/document/d/1RLLFRV9K7DFOYccXzt544n3SsytSGb-LU4r6qsQvWR0/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
