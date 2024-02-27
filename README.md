@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jesus Borjas</h1>
-<h3 align="center">A passionate frontend developer from Illinois</h3>
+## Welcome 👋
 
-- 🔭 I’m currently working on [Burger Shack](https://github.com/Jesusborjas006/Burger-Shack)
+Hey there, I'm Jesus Borjas
 
-- 🌱 I’m currently advancing my skills in **React and TypeScript**
+I was a student at Turing School of Software and Design where I spent 8 months learning the fundamentals of front-end development and unit testing. It was a deep dive into learning JavaScript and later I ended up using React to build my applications. Through these experiences, I had the opportunity to work with both a partner and small group, to develop applications and using git/github to organize and push our code to a repository. After I graduated I decided to advance my skills in CSS using Tailwind where I'm now able to take in designs from figma and turn it into code.
+
+I'm currently learning more about Redux for my React applications.
 
 - 📫 How to reach me **jesusbor006@gmail.com**
 
