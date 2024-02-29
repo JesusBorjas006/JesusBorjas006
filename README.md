@@ -7,6 +7,7 @@ I was a student at Turing School of Software and Design where I spent 8 months l
 I'm currently learning more about Redux for my React applications.
 
 - 📫 How to reach me **jesusbor006@gmail.com**
+- Checkout my portfolio <a href="https://jesus-portfolio-website.vercel.app/" target="blank">here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
